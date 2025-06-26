@@ -1,0 +1,34 @@
+C:\Users\Acer\Dropbox\Personal\Advices\2021\14- C# Level1\Projects\Pizza\obj\Debug\Pizza.csproj.AssemblyReference.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\14- C# Level1\Projects\Pizza\obj\Debug\Pizza.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\14- C# Level1\Projects\Pizza\obj\Debug\Pizza.Form1.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\14- C# Level1\Projects\Pizza\obj\Debug\Pizza.Properties.Resources.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\14- C# Level1\Projects\Pizza\obj\Debug\Pizza.csproj.GenerateResource.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\14- C# Level1\Projects\Pizza\obj\Debug\Pizza.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\14- C# Level1\Projects\Pizza\bin\Debug\Pizza.exe.config
+C:\Users\Acer\Dropbox\Personal\Advices\2021\14- C# Level1\Projects\Pizza\bin\Debug\Pizza.exe
+C:\Users\Acer\Dropbox\Personal\Advices\2021\14- C# Level1\Projects\Pizza\bin\Debug\Pizza.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\14- C# Level1\Projects\Pizza\obj\Debug\Pizza.exe
+C:\Users\Acer\Dropbox\Personal\Advices\2021\14- C# Level1\Projects\Pizza\obj\Debug\Pizza.pdb
+C:\Users\HMR\Desktop\Out hack (S.M.R)\C++( P1 )\Pizza\bin\Debug\Pizza.exe.config
+C:\Users\HMR\Desktop\Out hack (S.M.R)\C++( P1 )\Pizza\bin\Debug\Pizza.exe
+C:\Users\HMR\Desktop\Out hack (S.M.R)\C++( P1 )\Pizza\bin\Debug\Pizza.pdb
+C:\Users\HMR\Desktop\Out hack (S.M.R)\C++( P1 )\Pizza\obj\Debug\Pizza.csproj.AssemblyReference.cache
+C:\Users\HMR\Desktop\Out hack (S.M.R)\C++( P1 )\Pizza\obj\Debug\Pizza.csproj.SuggestedBindingRedirects.cache
+C:\Users\HMR\Desktop\Out hack (S.M.R)\C++( P1 )\Pizza\obj\Debug\Pizza.Form1.resources
+C:\Users\HMR\Desktop\Out hack (S.M.R)\C++( P1 )\Pizza\obj\Debug\Pizza.Properties.Resources.resources
+C:\Users\HMR\Desktop\Out hack (S.M.R)\C++( P1 )\Pizza\obj\Debug\Pizza.csproj.GenerateResource.cache
+C:\Users\HMR\Desktop\Out hack (S.M.R)\C++( P1 )\Pizza\obj\Debug\Pizza.csproj.CoreCompileInputs.cache
+C:\Users\HMR\Desktop\Out hack (S.M.R)\C++( P1 )\Pizza\obj\Debug\Pizza.exe
+C:\Users\HMR\Desktop\Out hack (S.M.R)\C++( P1 )\Pizza\obj\Debug\Pizza.pdb
+C:\Users\HMR\Desktop\Out hack (S.M.R)\C++( P1 )\Pizza\obj\Debug\Pizza.Form2.resources
+C:\Users\Saeer Ali\Desktop\Out hack (S.M.R)\Programming Code\Pizza\bin\Debug\Pizza.exe.config
+C:\Users\Saeer Ali\Desktop\Out hack (S.M.R)\Programming Code\Pizza\bin\Debug\Pizza.exe
+C:\Users\Saeer Ali\Desktop\Out hack (S.M.R)\Programming Code\Pizza\bin\Debug\Pizza.pdb
+C:\Users\Saeer Ali\Desktop\Out hack (S.M.R)\Programming Code\Pizza\obj\Debug\Pizza.csproj.AssemblyReference.cache
+C:\Users\Saeer Ali\Desktop\Out hack (S.M.R)\Programming Code\Pizza\obj\Debug\Pizza.Form1.resources
+C:\Users\Saeer Ali\Desktop\Out hack (S.M.R)\Programming Code\Pizza\obj\Debug\Pizza.Form2.resources
+C:\Users\Saeer Ali\Desktop\Out hack (S.M.R)\Programming Code\Pizza\obj\Debug\Pizza.Properties.Resources.resources
+C:\Users\Saeer Ali\Desktop\Out hack (S.M.R)\Programming Code\Pizza\obj\Debug\Pizza.csproj.GenerateResource.cache
+C:\Users\Saeer Ali\Desktop\Out hack (S.M.R)\Programming Code\Pizza\obj\Debug\Pizza.csproj.CoreCompileInputs.cache
+C:\Users\Saeer Ali\Desktop\Out hack (S.M.R)\Programming Code\Pizza\obj\Debug\Pizza.exe
+C:\Users\Saeer Ali\Desktop\Out hack (S.M.R)\Programming Code\Pizza\obj\Debug\Pizza.pdb
